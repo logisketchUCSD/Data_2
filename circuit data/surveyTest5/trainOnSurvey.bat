@@ -1,0 +1,1 @@
+..\RunCRF -t -c survey001.tcrf -l labelFile.txt -o survey001Post.tcrf surveyPostcondition.txt > surveyPostconditionOut.txt

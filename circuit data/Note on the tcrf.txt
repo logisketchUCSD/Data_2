@@ -1,0 +1,3 @@
+The .tcrf file here is from surveyTest8.  It was trained on a random slice of the survey data 
+(17 samples for training, 4 for conditioning, same 17 for training again).  It has a 96+-1% rate of
+recognition and is the best wire-gate domain CRF that we have seen.

@@ -1,0 +1,7 @@
+STARTING PROGRAM: 7/24/2006 2:41:50 PM
+Outputting datafiles
+Here is: survey003.2.labeled.fragged.xml 
+Here is: survey007.2.labeled.fragged.xml 
+Here is: survey009.2.labeled.fragged.xml 
+Here is: survey011.2.labeled.fragged.xml 
+Here is: 

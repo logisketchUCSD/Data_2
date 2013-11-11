@@ -1,0 +1,189 @@
+STARTING PROGRAM: 7/24/2006 2:59:05 PM
+Training CRF
+Starting initialization of 0th CRF
+Starting initialization of 1th CRF
+Starting initialization of 2th CRF
+Starting initialization of 3th CRF
+Starting initialization of 4th CRF
+Starting initialization of 5th CRF
+Starting initialization of 6th CRF
+Starting initialization of 7th CRF
+Starting initialization of 8th CRF
+Starting initialization of 9th CRF
+Starting initialization of 10th CRF
+Starting initialization of 11th CRF
+Starting initialization of 12th CRF
+Starting initialization of 13th CRF
+Starting initialization of 14th CRF
+Starting initialization of 15th CRF
+Starting initialization of 16th CRF
+Prepare for the Descent!
+Starting conjugate gradient descent
+Calculating f(x)
+First f(x) = 180.873938952512
+Calculating gradf(x)
+GRADIENT
+Starting iteration
+GRADIENT
+Success!
+Cycle   0	Error     137.292023599399	Scale                    1  Attempted f val     137.292023599399
+GRADIENT
+Delta = 0.293786264061528
+GRADIENT
+Success!
+Cycle   1	Error     133.614769316764	Scale                    1  Attempted f val     133.614769316764
+GRADIENT
+Delta = 1.2828629855852
+GRADIENT
+Success!
+Cycle   2	Error     63.6110410811899	Scale                  0.5  Attempted f val     63.6110410811899
+GRADIENT
+Delta = 0.725610718475212
+GRADIENT
+Success!
+Cycle   3	Error     53.2069567707044	Scale                  0.5  Attempted f val     53.2069567707044
+GRADIENT
+Delta = 0.850027106419079
+GRADIENT
+Success!
+Cycle   4	Error     42.5052563162171	Scale                 0.25  Attempted f val     42.5052563162171
+GRADIENT
+Delta = 1.11891032913543
+GRADIENT
+Success!
+Cycle   5	Error     34.2058743921658	Scale                0.125  Attempted f val     34.2058743921658
+GRADIENT
+Delta = 1.02876225884353
+GRADIENT
+Success!
+Cycle   6	Error     32.0070208625919	Scale               0.0625  Attempted f val     32.0070208625919
+GRADIENT
+Delta = 0.983392380429632
+GRADIENT
+Cycle   7	Error     32.0070208625919	Scale              0.03125  Attempted f val      39.945673209191
+Delta = -1.38397057737306
+Cycle   8	Error     32.0070208625919	Scale                0.125  Attempted f val     39.9451266837736
+Delta = -1.38404434267924
+Cycle   9	Error     32.0070208625919	Scale                  0.5  Attempted f val     39.9429455864643
+Delta = -1.38434004409649
+Cycle  10	Error     32.0070208625919	Scale                    2  Attempted f val     39.9343009027895
+Delta = -1.38553306499811
+Cycle  11	Error     32.0070208625919	Scale                    8  Attempted f val     39.9003260932796
+Delta = -1.39035261733145
+Cycle  12	Error     32.0070208625919	Scale                   32  Attempted f val     39.7842017228753
+Delta = -1.41229576372016
+Cycle  13	Error     32.0070208625919	Scale                  128  Attempted f val     39.5775078951057
+Delta = -1.53984472223949
+Cycle  14	Error     32.0070208625919	Scale                  512  Attempted f val     36.9274321335419
+Delta = -1.4299983452581
+Cycle  15	Error     32.0070208625919	Scale                 2048  Attempted f val     35.8091649061717
+Delta = -2.43156553914261
+Success!
+Cycle  16	Error     31.1387663005002	Scale                 8192  Attempted f val     31.1387663005002
+GRADIENT
+Delta = 1.76700314992134
+GRADIENT
+Cycle  17	Error     31.1387663005002	Scale                 4096  Attempted f val     34.9441757099326
+Delta = -3.42220957603622
+Cycle  18	Error     31.1387663005002	Scale                16384  Attempted f val     35.0296096340176
+Delta = -12.7731222098416
+Success!
+Cycle  19	Error     30.9837860197224	Scale                65536  Attempted f val     30.9837860197224
+GRADIENT
+Delta = 1.98640258853714
+GRADIENT
+Success!
+Cycle  20	Error     30.6762362691362	Scale                32768  Attempted f val     30.6762362691362
+GRADIENT
+Delta = 1.97182775377591
+GRADIENT
+Cycle  21	Error     30.6762362691362	Scale                16384  Attempted f val      34.814803941108
+Delta = -13.8407882270515
+Cycle  22	Error     30.6762362691362	Scale                65536  Attempted f val     35.0327442596725
+Delta = -56.939721461465
+Success!
+Cycle  23	Error     30.6381910909412	Scale               262144  Attempted f val     30.6381910909412
+GRADIENT
+Delta = 1.97731502702686
+GRADIENT
+Cycle  24	Error     30.6381910909412	Scale               131072  Attempted f val     35.0521237071689
+Delta = -115.232422543407
+Success!
+Cycle  25	Error     30.6188045727718	Scale               524288  Attempted f val     30.6188045727718
+GRADIENT
+Delta = 2.02005044858554
+GRADIENT
+Cycle  26	Error     30.6188045727718	Scale               262144  Attempted f val     35.0619506529801
+Delta = -232.155273747382
+Success!
+Cycle  27	Error     30.6095064127579	Scale              1048576  Attempted f val     30.6095064127579
+GRADIENT
+Delta = 1.9405163349419
+GRADIENT
+Cycle  28	Error     30.6095064127579	Scale               524288  Attempted f val     35.0664632243918
+Delta = -465.733029223352
+Success!
+Cycle  29	Error     30.6048574340143	Scale              2097152  Attempted f val     30.6048574340143
+GRADIENT
+Delta = 1.94185593612295
+GRADIENT
+Success!
+Cycle  30	Error     30.5997920030689	Scale              1048576  Attempted f val     30.5997920030689
+GRADIENT
+Delta = 1.5606628404399
+GRADIENT
+Cycle  31	Error     30.5997920030689	Scale               524288  Attempted f val     35.0655343116926
+Delta = -909.852456079561
+Cycle  32	Error     30.5997920030689	Scale              2097152  Attempted f val     35.0683208204701
+Delta = -2311.24905744818
+Success!
+Cycle  33	Error     30.5976129792409	Scale              8388608  Attempted f val     30.5976129792409
+GRADIENT
+Delta = 3.85944132364222
+GRADIENT
+Cycle  34	Error     30.5976129792409	Scale              4194304  Attempted f val     35.0685608767449
+Delta = -4181.81743007736
+Cycle  35	Error     30.5976129792409	Scale             16777216  Attempted f val     35.0713116364076
+Delta = -15405.717114777
+Cycle  36	Error     30.5976129792409	Scale             67108864  Attempted f val     30.5986658142643
+Delta = -14.1888193440746
+Cycle  37	Error     30.5976129792409	Scale            268435456  Attempted f val     30.5983829165385
+Delta = -41.2758683992679
+Cycle  38	Error     30.5976129792409	Scale           1073741824  Attempted f val     30.5976467961743
+Delta = -7.24155310997689
+Cycle  39	Error     30.5976129792409	Scale           4294967296  Attempted f val     30.5976198340941
+Delta = -5.86954824603404
+Cycle  40	Error     30.5976129792409	Scale          17179869184  Attempted f val     30.5976145984101
+Delta = -5.54524806993523
+Cycle  41	Error     30.5976129792409	Scale          68719476736  Attempted f val     30.5976133782068
+Delta = -5.46531350195886
+Cycle  42	Error     30.5976129792409	Scale         274877906944  Attempted f val     30.5976130786195
+Delta = -5.44539961906467
+Cycle  43	Error     30.5976129792409	Scale        1099511627776  Attempted f val     30.5976130040631
+Delta = -5.44047001966066
+Cycle  44	Error     30.5976129792409	Scale        4398046511104  Attempted f val     30.5976129854455
+Delta = -5.43962330951694
+Cycle  45	Error     30.5976129792409	Scale       17592186044416  Attempted f val      30.597612980792
+Delta = -5.43950137439334
+Cycle  46	Error     30.5976129792409	Scale       70368744177664  Attempted f val     30.5976129796289
+Delta = -5.44185597285877
+Cycle  47	Error     30.5976129792409	Scale      281474976710656  Attempted f val      30.597612979338
+Delta = -5.44519490337299
+Cycle  48	Error     30.5976129792409	Scale 1.12589990684262E+15  Attempted f val     30.5976129792652
+Delta = -5.43961335210671
+Cycle  49	Error     30.5976129792409	Scale  4.5035996273705E+15  Attempted f val      30.597612979247
+Delta = -5.49542879071935
+Cycle  50	Error     30.5976129792409	Scale  1.8014398509482E+16  Attempted f val     30.5976129792427
+Delta = -6.25132932612709
+Cycle  51	Error     30.5976129792409	Scale 7.20575940379279E+16  Attempted f val     30.5976129792414
+Delta = -6.42993873531174
+Cycle  52	Error     30.5976129792409	Scale 2.88230376151712E+17  Attempted f val     30.5976129792411
+Delta = -10.6145020391898
+Cycle  53	Error     30.5976129792409	Scale 1.15292150460685E+18  Attempted f val     30.5976129792409
+Delta = -3.26600062743878
+Cycle  54	Error     30.5976129792409	Scale 4.61168601842739E+18  Attempted f val      30.597612979241
+Delta = -26.1280050195018
+Success!
+Cycle  55	Error     30.5976129792409	Scale 1.84467440737096E+19  Attempted f val     30.5976129792409
+WOOHOO CONVERGENCE by getting under tolerance
+ENDING PROGRAM: 7/24/2006 3:24:53 PM
